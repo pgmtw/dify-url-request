@@ -1,2 +1,4 @@
+reqests
+bs4
 fastapi
 uvicorn[standard]
