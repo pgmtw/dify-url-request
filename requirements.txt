@@ -1,4 +1,4 @@
-reqests
+requests
 bs4
 fastapi
 uvicorn[standard]
